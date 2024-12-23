@@ -1,5 +1,5 @@
 // Treinando if/else
-// Um boxeador interplanet·rio est· querendo saber seu peso em outros planetas; ajudemos-o usando programaÁ„o
+// Um boxeador interplanet√°rio est√° querendo saber seu peso em outros planetas; ajudemos-o usando programa√ß√£o
 
 #include <iostream>
 
@@ -7,7 +7,7 @@ int main() {
 	
 	double earth_w; // peso na terra
 	double fight_w; // peso no planeta da luta
-	double relative_gravity; // relaÁao de gravd com a terra
+	double relative_gravity; // rela√ßao de gravd com a terra
 	int n_planet; // numero do planeta
 	std::string planet; // nome do planeta
 	
