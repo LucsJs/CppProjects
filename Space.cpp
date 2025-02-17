@@ -52,7 +52,7 @@ int main() {
 	}
 	
 	if (planet == "Unknown") {
-	std::cout << "YOU DIGITED AN INVALID PLANET NUMBER\n";
+	std::cout << "YOU DIGITED AN INVALID PLANET NUMBER!\n";
 	} else {
 	fight_w = earth_w * relative_gravity;
 	std::cout << "\nIn " << planet << " you will have " << fight_w << " Kg.\n"; 
